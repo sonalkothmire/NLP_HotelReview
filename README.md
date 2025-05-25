@@ -42,3 +42,5 @@ Extracted the top 7 keywords for each cluster to summarize its central theme.
 1.Improve clustering by experimenting with advanced models like DBSCAN or hierarchical clustering.
 
 2.Integrate a database to handle larger datasets dynamically.
+
+# Steamlit App Run
