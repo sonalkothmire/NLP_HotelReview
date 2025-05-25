@@ -44,3 +44,4 @@ Extracted the top 7 keywords for each cluster to summarize its central theme.
 2.Integrate a database to handle larger datasets dynamically.
 
 # Steamlit App Run
+![image alt](https://github.com/sonalkothmire/NLP_HotelReview/blob/main/StreamlitRun.jpg)
